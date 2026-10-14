@@ -41,7 +41,7 @@ const sanitizedModel =
 
 export const env: EnvConfig = {
   PORT: parseInt(process.env.PORT || '4000', 10),
-  HOST: process.env.HOST || '127.0.0.1',
+  HOST: process.env.HOST || (process.env.NODE_ENV === 'production' ? '0.0.0.0' : '127.0.0.1'),
   NODE_ENV: process.env.NODE_ENV || 'development',
   CLIENT_URL: process.env.CLIENT_URL || 'http://localhost:5173',
   CORS_ORIGINS: process.env.CORS_ORIGINS?.trim(),
