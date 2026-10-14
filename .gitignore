@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment variables
+.env
+.env.*
+server/.env
+server/.env.*
+client/.env
+client/.env.*
+
+# Build outputs
+dist/
+build/
+client/dist/
+server/dist/
+.cache/
+.vercel/
+coverage/
+
+# Storage & Logs
+data/*.db
+data/*.sqlite
+logs/
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

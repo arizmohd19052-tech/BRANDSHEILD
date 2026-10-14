@@ -1,0 +1,58 @@
+[
+  {
+    "id": "feedback-1791942505113-zwy5k",
+    "rating": 5,
+    "category": "detection_accuracy",
+    "comment": "Look-alike engine correctly caught Cyrillic homoglyph swap on HDFC.",
+    "email": "sec-analyst@example.com",
+    "createdAt": "2026-10-14T01:48:25.113Z"
+  },
+  {
+    "id": "feedback-1791942224889-iefre",
+    "rating": 5,
+    "category": "detection_accuracy",
+    "comment": "Look-alike engine correctly caught Cyrillic homoglyph swap on HDFC.",
+    "email": "sec-analyst@example.com",
+    "createdAt": "2026-10-14T01:43:44.889Z"
+  },
+  {
+    "id": "feedback-1791942184597-bqsif",
+    "rating": 5,
+    "category": "detection_accuracy",
+    "comment": "Look-alike engine correctly caught Cyrillic homoglyph swap on HDFC.",
+    "email": "sec-analyst@example.com",
+    "createdAt": "2026-10-14T01:43:04.597Z"
+  },
+  {
+    "id": "feedback-1791915816870-zkjq6",
+    "rating": 5,
+    "category": "detection_accuracy",
+    "comment": "Look-alike engine correctly caught Cyrillic homoglyph swap on HDFC.",
+    "email": "sec-analyst@example.com",
+    "createdAt": "2026-10-13T18:23:36.870Z"
+  },
+  {
+    "id": "feedback-1791915431311-fztyc",
+    "rating": 5,
+    "category": "detection_accuracy",
+    "comment": "Look-alike engine correctly caught Cyrillic homoglyph swap on HDFC.",
+    "email": "sec-analyst@example.com",
+    "createdAt": "2026-10-13T18:17:11.311Z"
+  },
+  {
+    "id": "feedback-1791915348865-ouvzh",
+    "rating": 5,
+    "category": "detection_accuracy",
+    "comment": "Look-alike engine correctly caught Cyrillic homoglyph swap on HDFC.",
+    "email": "sec-analyst@example.com",
+    "createdAt": "2026-10-13T18:15:48.865Z"
+  },
+  {
+    "id": "feedback-1791914745941-dqxv0",
+    "rating": 5,
+    "category": "detection_accuracy",
+    "comment": "Look-alike engine correctly caught Cyrillic homoglyph swap on HDFC.",
+    "email": "sec-analyst@example.com",
+    "createdAt": "2026-10-13T18:05:45.941Z"
+  }
+]

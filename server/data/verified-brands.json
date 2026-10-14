@@ -1,0 +1,299 @@
+[
+  {
+    "id": "brand_hdfc",
+    "dataClass": "VERIFIED_PUBLIC",
+    "verificationStatus": "VERIFIED_OFFICIAL",
+    "brandName": "HDFC Bank",
+    "legalName": "HDFC Bank Limited",
+    "industry": "Banking & Financial Services",
+    "website": "https://www.hdfcbank.com",
+    "officialDomain": "hdfcbank.com",
+    "officialLogoUrl": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/56722d56-7492-4f9e-be48-6a31c19b0de7/common/assets/images/HDFC-Bank-Logo.svg",
+    "domains": ["hdfcbank.com", "hdfc.com", "payzapp.in"],
+    "keywords": ["HDFC", "HDFC Bank", "PayZapp", "NetBanking", "Loans", "Cards"],
+    "officialSocials": [
+      {
+        "id": "soc_hdfc_x",
+        "platform": "x",
+        "handle": "HDFC_Bank",
+        "url": "https://twitter.com/HDFC_Bank",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_hdfc_fb",
+        "platform": "facebook",
+        "handle": "HDFC.bank",
+        "url": "https://www.facebook.com/HDFC.bank",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_hdfc_li",
+        "platform": "linkedin",
+        "handle": "hdfc-bank",
+        "url": "https://www.linkedin.com/company/hdfc-bank",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_hdfc_ig",
+        "platform": "instagram",
+        "handle": "hdfcbank",
+        "url": "https://www.instagram.com/hdfcbank",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_hdfc_tg",
+        "platform": "telegram",
+        "handle": null,
+        "url": null,
+        "verificationStatus": "UNVERIFIED_NEEDS_MANUAL_CHECK"
+      }
+    ],
+    "officialApps": [
+      {
+        "id": "app_hdfc_gp_main",
+        "store": "google_play",
+        "appName": "HDFC Bank MobileBanking",
+        "packageId": "com.snapwork.hdfc",
+        "publisherName": "HDFC Bank Ltd.",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.snapwork.hdfc",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "app_hdfc_gp_payzapp",
+        "store": "google_play",
+        "appName": "PayZapp by HDFC Bank",
+        "packageId": "com.enstage.wibmo.hdfc",
+        "publisherName": "HDFC Bank Ltd.",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.enstage.wibmo.hdfc",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "app_hdfc_ios_main",
+        "store": "apple_app_store",
+        "appName": "HDFC Bank MobileBanking",
+        "packageId": "com.hdfcbank.mobilebanking",
+        "publisherName": "HDFC Bank Limited",
+        "storeUrl": "https://apps.apple.com/in/app/hdfc-bank-mobilebanking/id548612996",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      }
+    ],
+    "datasetGenerated": "2026-10-13T00:00:00Z"
+  },
+  {
+    "id": "brand_phonepe",
+    "dataClass": "VERIFIED_PUBLIC",
+    "verificationStatus": "VERIFIED_OFFICIAL",
+    "brandName": "PhonePe",
+    "legalName": "PhonePe Private Limited",
+    "industry": "Fintech & Digital Payments",
+    "website": "https://www.phonepe.com",
+    "officialDomain": "phonepe.com",
+    "officialLogoUrl": "https://www.phonepe.com/assets/images/logo/phonepe-logo.svg",
+    "domains": ["phonepe.com", "phonepe.in"],
+    "keywords": ["PhonePe", "UPI", "Recharge", "Wallet", "Merchant QR"],
+    "officialSocials": [
+      {
+        "id": "soc_phonepe_x",
+        "platform": "x",
+        "handle": "PhonePe",
+        "url": "https://twitter.com/PhonePe",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_phonepe_fb",
+        "platform": "facebook",
+        "handle": "PhonePe",
+        "url": "https://www.facebook.com/PhonePe",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_phonepe_li",
+        "platform": "linkedin",
+        "handle": "phonepe-internet",
+        "url": "https://www.linkedin.com/company/phonepe-internet",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_phonepe_ig",
+        "platform": "instagram",
+        "handle": "phonepe",
+        "url": "https://www.instagram.com/phonepe",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_phonepe_tg",
+        "platform": "telegram",
+        "handle": null,
+        "url": null,
+        "verificationStatus": "UNVERIFIED_NEEDS_MANUAL_CHECK"
+      }
+    ],
+    "officialApps": [
+      {
+        "id": "app_phonepe_gp_main",
+        "store": "google_play",
+        "appName": "PhonePe: UPI, Recharges & Pay",
+        "packageId": "com.phonepe.app",
+        "publisherName": "PhonePe",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.phonepe.app",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "app_phonepe_gp_business",
+        "store": "google_play",
+        "appName": "PhonePe Business",
+        "packageId": "com.phonepe.app.business",
+        "publisherName": "PhonePe",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.phonepe.app.business",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "app_phonepe_ios_main",
+        "store": "apple_app_store",
+        "appName": "PhonePe: Secure UPI & Recharge",
+        "packageId": "com.phonepe.app",
+        "publisherName": "PhonePe Private Limited",
+        "storeUrl": "https://apps.apple.com/in/app/phonepe-secure-upi-recharge/id1170055821",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      }
+    ],
+    "datasetGenerated": "2026-10-13T00:00:00Z"
+  },
+  {
+    "id": "brand_flipkart",
+    "dataClass": "VERIFIED_PUBLIC",
+    "verificationStatus": "VERIFIED_OFFICIAL",
+    "brandName": "Flipkart",
+    "legalName": "Flipkart Internet Private Limited",
+    "industry": "E-Commerce & Retail",
+    "website": "https://www.flipkart.com",
+    "officialDomain": "flipkart.com",
+    "officialLogoUrl": "https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/fkheaderlogo_exploreplus-44005d.svg",
+    "domains": ["flipkart.com", "flixcart.com"],
+    "keywords": ["Flipkart", "SuperCoins", "Big Billion Days", "Shopping", "Plus"],
+    "officialSocials": [
+      {
+        "id": "soc_flipkart_x",
+        "platform": "x",
+        "handle": "Flipkart",
+        "url": "https://twitter.com/Flipkart",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_flipkart_fb",
+        "platform": "facebook",
+        "handle": "Flipkart",
+        "url": "https://www.facebook.com/Flipkart",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_flipkart_li",
+        "platform": "linkedin",
+        "handle": "flipkart",
+        "url": "https://www.linkedin.com/company/flipkart",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_flipkart_ig",
+        "platform": "instagram",
+        "handle": "flipkart",
+        "url": "https://www.instagram.com/flipkart",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_flipkart_tg",
+        "platform": "telegram",
+        "handle": null,
+        "url": null,
+        "verificationStatus": "UNVERIFIED_NEEDS_MANUAL_CHECK"
+      }
+    ],
+    "officialApps": [
+      {
+        "id": "app_flipkart_gp_main",
+        "store": "google_play",
+        "appName": "Flipkart: Online Shopping App",
+        "packageId": "com.flipkart.android",
+        "publisherName": "Flipkart",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.flipkart.android",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "app_flipkart_gp_seller",
+        "store": "google_play",
+        "appName": "Flipkart Seller Hub",
+        "packageId": "com.flipkart.seller",
+        "publisherName": "Flipkart",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.flipkart.seller",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "app_flipkart_ios_main",
+        "store": "apple_app_store",
+        "appName": "Flipkart: Online Shopping App",
+        "packageId": "com.flipkart.iphone",
+        "publisherName": "Flipkart Internet Private Limited",
+        "storeUrl": "https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      }
+    ],
+    "datasetGenerated": "2026-10-13T00:00:00Z"
+  },
+  {
+    "id": "brand_acme",
+    "dataClass": "VERIFIED_PUBLIC",
+    "verificationStatus": "VERIFIED_OFFICIAL",
+    "brandName": "Acme Bank",
+    "legalName": "Acme Bank & Trust N.A.",
+    "industry": "Banking & Financial Services",
+    "website": "https://www.acmebank.example.com",
+    "officialDomain": "acmebank.example.com",
+    "officialLogoUrl": "https://www.acmebank.example.com/logo.svg",
+    "domains": ["acmebank.example.com", "acmebank.com", "acme.bank"],
+    "keywords": ["banking", "checking", "finance", "credit", "loans", "cards", "mobile banking"],
+    "officialSocials": [
+      {
+        "id": "soc_acme_x",
+        "platform": "x",
+        "handle": "AcmeBank",
+        "url": "https://twitter.com/AcmeBank",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_acme_fb",
+        "platform": "facebook",
+        "handle": "AcmeBankOfficial",
+        "url": "https://facebook.com/AcmeBankOfficial",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "soc_acme_li",
+        "platform": "linkedin",
+        "handle": "acme-bank",
+        "url": "https://linkedin.com/company/acme-bank",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      }
+    ],
+    "officialApps": [
+      {
+        "id": "app_acme_gp_main",
+        "store": "google_play",
+        "appName": "Acme Mobile Banking",
+        "packageId": "com.acmebank.mobile",
+        "publisherName": "Acme Financial Corp",
+        "storeUrl": "https://play.google.com/store/apps/details?id=com.acmebank.mobile",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      },
+      {
+        "id": "app_acme_ios_main",
+        "store": "apple_app_store",
+        "appName": "Acme Mobile Banking",
+        "packageId": "com.acmebank.mobilebanking",
+        "publisherName": "Acme Financial Corp",
+        "storeUrl": "https://apps.apple.com/in/app/acme-mobile-banking/id123456789",
+        "verificationStatus": "VERIFIED_OFFICIAL"
+      }
+    ],
+    "datasetGenerated": "2026-10-13T00:00:00Z"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "brandshield",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "BrandShield AI — AI-Powered Digital Brand Protection Platform",
+  "private": true,
+  "scripts": {
+    "predev": "node scripts/precheck-ports.js",
+    "dev": "npm run predev && concurrently -k -p \"[{name}]\" -n \"SERVER,CLIENT\" -c \"cyan.bold,green.bold\" \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "demo": "concurrently -k -p \"[{name}]\" -n \"SERVER,CLIENT\" -c \"cyan.bold,green.bold\" \"npm --prefix server run start\" \"npm --prefix client run preview\"",
+    "build": "npm --prefix server run build && npm --prefix client run build",
+    "start": "npm --prefix server run start",
+    "test": "npm --prefix server test",
+    "seed": "npm --prefix server run seed",
+    "reset-db": "npm --prefix server run reset-db"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
