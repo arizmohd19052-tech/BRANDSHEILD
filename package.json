@@ -4,6 +4,10 @@
   "type": "module",
   "description": "BrandShield AI — AI-Powered Digital Brand Protection Platform",
   "private": true,
+  "workspaces": [
+    "server",
+    "client"
+  ],
   "scripts": {
     "predev": "node scripts/precheck-ports.js",
     "dev": "npm run predev && concurrently -k -p \"[{name}]\" -n \"SERVER,CLIENT\" -c \"cyan.bold,green.bold\" \"npm run dev:server\" \"npm run dev:client\"",
